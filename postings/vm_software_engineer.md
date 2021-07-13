@@ -102,7 +102,7 @@ more of the following knowledge areas:
 
 1. total infrastructure protection environments;
 1. systems security certification and accreditation requirements and processes; and/or
-1. Federal information systems security protocols.
+1. federal information systems security protocols.
 
 The aforementioned knowledge is used in order to:
 
