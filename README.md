@@ -59,7 +59,7 @@ Developers](https://github.com/cisagov/development-guide/discussions).
 
 If you are interested in a posting, please send your résumé to: [mark.feldhousen@cisa.dhs.gov](mailto:mark.feldhousen@cisa.dhs.gov)
 
-Adventure awaits!  Huzzah!
+Adventure awaits!  Huzzah! 🤺
 
 Our current postings:
 
