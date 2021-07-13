@@ -1,23 +1,12 @@
-# join-cisagov #
+# CISA is Hiring! #
 
 [![GitHub Build Status](https://github.com/cisagov/join-cisagov/workflows/build/badge.svg)](https://github.com/cisagov/join-cisagov/actions)
 
-This is a generic skeleton project that can be used to quickly get a
-new [cisagov](https://github.com/cisagov) GitHub project started.
-This skeleton project contains [licensing information](LICENSE), as
-well as [pre-commit hooks](https://pre-commit.com) and
-[GitHub Actions](https://github.com/features/actions) configurations
-appropriate for the major languages that we use.
+Looking for an opportunity to make a difference while leveraging your software development, product management, procurement, design, content, cloud migration, outreach, or operations skills? We’re looking for candidates passionate about our mission to lead the national effort to understand and manage cyber and physical risk to our critical infrastructure.
 
-In many cases you will instead want to use one of the more specific
-skeleton projects derived from this one.
+## Current postings ##
 
-## New Repositories from a Skeleton ##
-
-Please see our [Project Setup guide](https://github.com/cisagov/development-guide/tree/develop/project_setup)
-for step-by-step instructions on how to start a new repository from
-a skeleton. This will save you time and effort when configuring a
-new repository!
+* [Software Engineers](postings/vm_software_engineer.md)
 
 ## Contributing ##
 
