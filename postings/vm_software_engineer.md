@@ -101,7 +101,7 @@ Work comparable to this level involves a mastery of and skill in applying one or
 more of the following knowledge areas:
 
 1. total infrastructure protection environments;
-1. systems security certification and accreditation requirements and processes; and/or 
+1. systems security certification and accreditation requirements and processes; and/or
 1. Federal information systems security protocols.
 
 The aforementioned knowledge is used in order to:
@@ -118,18 +118,34 @@ successfully fulfill the Major Duties and perform the Tasks required for this
 position include:
 
 * Knowledge of secure coding techniques [K0140]
-* Knowledge of computer networking concepts and protocols, and network security methodologies [K0001]
-* Knowledge of the application firewall concepts and functions (e.g., Single point of authentication/audit/policy enforcement, message scanning for malicious content, data anonymization for PCI and PII compliance, data loss protection scanning, accelerated cryptographic operations, SSL security, REST/JSON processing) [K0202]
-* Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services [K0332]
-* Skill in developing applications that can log and handle errors, exceptions, and application faults and logging [S0149]
-* Ability to develop secure software according to secure software deployment methodologies, tools, and practices [A0047]
+* Knowledge of computer networking concepts and protocols, and network security
+  methodologies [K0001]
+* Knowledge of the application firewall concepts and functions (e.g., Single
+  point of authentication/audit/policy enforcement, message scanning for
+  malicious content, data anonymization for PCI and PII compliance, data loss
+  protection scanning, accelerated cryptographic operations, SSL security,
+  REST/JSON processing) [K0202]
+* Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration,
+  Domain Name System (DNS), and directory services [K0332]
+* Skill in developing applications that can log and handle errors, exceptions,
+  and application faults and logging [S0149]
+* Ability to develop secure software according to secure software deployment
+  methodologies, tools, and practices [A0047]
 * Knowledge of operations security [K0499]
-* Knowledge of the common networking and routing protocols (e.g. TCP/IP), services (e.g., web, mail, DNS), and how they interact to provide network communications. [K0565]
+* Knowledge of the common networking and routing protocols (e.g. TCP/IP),
+  services (e.g., web, mail, DNS), and how they interact to provide network
+  communications. [K0565]
 * Knowledge of virtualization products (VMware, Virtual PC). [K0610]
-* Skill in developing or recommending analytic approaches or solutions to problems and situations for which information is incomplete or for which no precedent exists. [S0211]
-* Skill in evaluating information for reliability, validity, and relevance. [S0218]
-* Ability to develop or recommend analytic approaches or solutions to problems and situations for which information is incomplete or for which no precedent exists. [S0080]
-* Knowledge of virtualization technologies and virtual machine development and maintenance [K0130]
+* Skill in developing or recommending analytic approaches or solutions to
+  problems and situations for which information is incomplete or for which no
+  precedent exists. [S0211]
+* Skill in evaluating information for reliability, validity, and relevance.
+  [S0218]
+* Ability to develop or recommend analytic approaches or solutions to problems
+  and situations for which information is incomplete or for which no precedent
+  exists. [S0080]
+* Knowledge of virtualization technologies and virtual machine development and
+  maintenance [K0130]
 * Knowledge of principles and methods for integrating system components [K0346]
 
 ### Specific Tools and Technologies ###
@@ -156,7 +172,8 @@ required for this position include:
 
 ### CyberSkills Codes ###
 
-This position has been awarded the following OPM GDS (aka NIST NICE Framework) CyberSkill codes:
+This position has been awarded the following OPM GDS (aka NIST NICE Framework)
+CyberSkill codes:
 
 * PRIMARY: 621 Software Developer
 * SECONDARY: 451 System Administrator
