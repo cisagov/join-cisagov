@@ -202,6 +202,7 @@ CyberSkill codes:
 [K0140]: https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework/knowledge?id=K0140
 [K0001]: https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework/knowledge?id=K0001
 [K0202]: https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework/knowledge?id=K0202
+[K0332]: https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework/knowledge?id=K0332
 [S0149]: https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework/skills?id=S0149
 [A0047]: https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework/abilities?id=A0047
 [K0499]: https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework/knowledge?id=K0499
