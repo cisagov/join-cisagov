@@ -31,7 +31,7 @@ CISA recognizes the value of its workforce and offers a variety of benefits:
 
 ### Vulnerability Management software engineering team ###
 
-A small shop with a big heart. ❤️ We're looking for both juñior and señior
+A small shop with a big heart. ❤️ We're looking for both junior and senior
 developers to help design the tools and systems used by CISA's Vulnerability
 Management sub-division.  These are the folks that perform many of our
 [cybersecurity assessments](https://www.cisa.gov/cyber-resource-hub).
@@ -51,7 +51,7 @@ whenever we can.
 We appreciate that software development can be an art as much as a science.  Bob
 Ross got to pick his own brushes, and so can you!  There are very few
 restrictions on what you can craft as your development environment. (But you may
-get razzed if registry keys are involved).
+get razzed if registry keys are involved.)
 
 If have any questions for our team, please feel free to join the conversation
 over in the [Guild of
