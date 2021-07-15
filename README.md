@@ -8,8 +8,8 @@ outreach, or operations skills? We’re looking for candidates passionate about
 our mission to lead the national effort to understand and manage cyber and
 physical risk to our critical infrastructure.
 
-Every day, the men and women of CISA work with our partners across the country,
-to strengthen the backbone of our national and economic security. Often, we’re
+Every day, the men and women of CISA work with our partners across the country
+to strengthen the backbone of our national and economic security. Often we’re
 behind the scenes making sure that the systems and networks Americans rely on
 are there when they need them. We work collaboratively with state and local
 government, private industry, law enforcement, and top-tier researchers. Join
@@ -38,7 +38,7 @@ Management sub-division.  These are the folks that perform many of our
 
 Our development team is responsible for a majority of the repositories in the
 [cisagov organization](https://github.com/cisagov). Take a look around to get a
-sense of what we are currently working on.  Recently we've been making a big
+sense of what we're currently working on.  Recently we've been making a big
 push to cloudify all the things, resulting in our new
 [COOL](https://github.com/cisagov/cool-system) system. You'll find a good deal
 of Python, infrastructure as code (Terraform, Ansible, Packer), and old-school
