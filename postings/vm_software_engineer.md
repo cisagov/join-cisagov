@@ -39,15 +39,15 @@ as defined by the NIST SP 800-181 National Cyberskills Workforce Framework
 existing) computer applications, software, or specialized utility programs.  The
 following specific tasks are performed 40 percent of the time:
 
-* Analyze user needs and software requirements to determine feasibility of
+- Analyze user needs and software requirements to determine feasibility of
   design within time and cost constraints [T0011]
-* Compile and write documentation of program development and subsequent
+- Compile and write documentation of program development and subsequent
   revisions, inserting comments in the coded instructions so others can
   understand the program [T0026]
-* Conduct trial runs of programs and software applications to ensure that the
+- Conduct trial runs of programs and software applications to ensure that the
   desired information is produced and instructions and security levels are
   correct [T0436]
-* Apply cybersecurity functions (e.g., encryption, access control, and identity
+- Apply cybersecurity functions (e.g., encryption, access control, and identity
   management) to reduce exploitation opportunities [T0553]
 
 **NCWF Code: 451 Category**:  Work in this category includes performing OPM GDS
@@ -61,13 +61,13 @@ technical security controls; and adhering to organizational security policies
 and procedures).  The following specific tasks are performed 35 percent of the
 time:
 
-* Design group policies and access control lists to ensure compatibility with
+- Design group policies and access control lists to ensure compatibility with
   organizational standards, business rules, and needs [T0054]
-* Provide ongoing optimization and problem-solving support [T0207]
-* Install, update, and troubleshoot systems/servers [T0418]
-* Manage system/server resources including performance, capacity, availability,
+- Provide ongoing optimization and problem-solving support [T0207]
+- Install, update, and troubleshoot systems/servers [T0418]
+- Manage system/server resources including performance, capacity, availability,
   serviceability, and recoverability [T0498]
-* Monitor and maintain system/server configuration [T0501]
+- Monitor and maintain system/server configuration [T0501]
 
 **NCWF Code: 141 Category**:  Work in this category includes performing OPM GDS
 Cybersecurity Category / Specialty Area: Threat/Warning Analyst [AN-TWA-001]
@@ -77,21 +77,21 @@ of the highly dynamic operating environment. Collects, processes, analyzes, and
 disseminates cyber threat/warning assessments.  The following specific tasks are
 performed 25 percent of the time:
 
-* Answer requests for information [T0569]
-* Provide subject matter expertise to the development of cyber operations
+- Answer requests for information [T0569]
+- Provide subject matter expertise to the development of cyber operations
   specific indicators [T0585]
-* Conduct in-depth research and analysis [T0615]
-* Produce timely, fused, all-source cyber operations intelligence and/or
+- Conduct in-depth research and analysis [T0615]
+- Produce timely, fused, all-source cyber operations intelligence and/or
   indications and warnings intelligence products (e.g., threat assessments,
   briefings, intelligence studies, country studies) [T0758]
-* Provide subject-matter expertise and support to planning/developmental forums
+- Provide subject-matter expertise and support to planning/developmental forums
   and working groups as appropriate [T0761]
-* Provide current intelligence support to critical internal/external
+- Provide current intelligence support to critical internal/external
   stakeholders as appropriate [T0783]
-* Provide information and assessments for the purposes of informing leadership
+- Provide information and assessments for the purposes of informing leadership
   and customers; developing and refining objectives; supporting operation
   planning and execution; and assessing the effects of operations [T0786]
-* Work closely with planners, intelligence analysts, and collection managers to
+- Work closely with planners, intelligence analysts, and collection managers to
   ensure intelligence requirements and collection plans are accurate and
   up-to-date [T0834]
 
@@ -117,36 +117,36 @@ Specific knowledge, skills, and abilities required by the incumbent to
 successfully fulfill the Major Duties and perform the Tasks required for this
 position include:
 
-* Knowledge of secure coding techniques [K0140]
-* Knowledge of computer networking concepts and protocols, and network security
+- Knowledge of secure coding techniques [K0140]
+- Knowledge of computer networking concepts and protocols, and network security
   methodologies [K0001]
-* Knowledge of the application firewall concepts and functions (e.g., Single
+- Knowledge of the application firewall concepts and functions (e.g., Single
   point of authentication/audit/policy enforcement, message scanning for
   malicious content, data anonymization for PCI and PII compliance, data loss
   protection scanning, accelerated cryptographic operations, SSL security,
   REST/JSON processing) [K0202]
-* Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration,
+- Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration,
   Domain Name System (DNS), and directory services [K0332]
-* Skill in developing applications that can log and handle errors, exceptions,
+- Skill in developing applications that can log and handle errors, exceptions,
   and application faults and logging [S0149]
-* Ability to develop secure software according to secure software deployment
+- Ability to develop secure software according to secure software deployment
   methodologies, tools, and practices [A0047]
-* Knowledge of operations security [K0499]
-* Knowledge of the common networking and routing protocols (e.g. TCP/IP),
+- Knowledge of operations security [K0499]
+- Knowledge of the common networking and routing protocols (e.g. TCP/IP),
   services (e.g., web, mail, DNS), and how they interact to provide network
   communications. [K0565]
-* Knowledge of virtualization products (VMware, Virtual PC). [K0610]
-* Skill in developing or recommending analytic approaches or solutions to
+- Knowledge of virtualization products (VMware, Virtual PC). [K0610]
+- Skill in developing or recommending analytic approaches or solutions to
   problems and situations for which information is incomplete or for which no
   precedent exists. [S0211]
-* Skill in evaluating information for reliability, validity, and relevance.
+- Skill in evaluating information for reliability, validity, and relevance.
   [S0218]
-* Ability to develop or recommend analytic approaches or solutions to problems
+- Ability to develop or recommend analytic approaches or solutions to problems
   and situations for which information is incomplete or for which no precedent
   exists. [S0080]
-* Knowledge of virtualization technologies and virtual machine development and
+- Knowledge of virtualization technologies and virtual machine development and
   maintenance [K0130]
-* Knowledge of principles and methods for integrating system components [K0346]
+- Knowledge of principles and methods for integrating system components [K0346]
 
 ### Specific Tools and Technologies ###
 
@@ -154,19 +154,19 @@ Proficiency with the following tools and technologies are required by the
 incumbent to successfully fulfill the Major Duties and perform the Tasks
 required for this position include:
 
-* Linux, and similar POSIX operating systems
-* Python, and related tooling
-* Shell scripting
-* Regular expressions
-* Docker, or similar containerization tools
-* Ansible, or similar IT automation tool
-* Terraform, or similar infrastructure as code tool
-* Packer, or similar machine image automation tool
-* Amazon Web Services (AWS), or similar cloud technologies
-* Git version control system
-* GitHub workflow
-* Agile software development
-* Continuous integration and deployment tools
+- Linux, and similar POSIX operating systems
+- Python, and related tooling
+- Shell scripting
+- Regular expressions
+- Docker, or similar containerization tools
+- Ansible, or similar IT automation tool
+- Terraform, or similar infrastructure as code tool
+- Packer, or similar machine image automation tool
+- Amazon Web Services (AWS), or similar cloud technologies
+- Git version control system
+- GitHub workflow
+- Agile software development
+- Continuous integration and deployment tools
 
 ## Other Requirements ##
 
@@ -175,9 +175,9 @@ required for this position include:
 This position has been awarded the following OPM GDS (aka NIST NICE Framework)
 CyberSkill codes:
 
-* PRIMARY: 621 Software Developer
-* SECONDARY: 451 System Administrator
-* SECONDARY(alt): 141 Threat/Warning Analyst
+- PRIMARY: 621 Software Developer
+- SECONDARY: 451 System Administrator
+- SECONDARY(alt): 141 Threat/Warning Analyst
 
 [SP-DEV-001]: https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework/workroles?id=SP-DEV-001
 [OM-ADM-001]: https://niccs.cisa.gov/workforce-development/cyber-security-workforce-framework/workroles?id=OM-ADM-001
