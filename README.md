@@ -17,14 +17,14 @@ the team that is proud to protect!
 
 CISA recognizes the value of its workforce and offers a variety of benefits:
 
-* Flexible work schedules, telework, remote work, and both casual and
+- Flexible work schedules, telework, remote work, and both casual and
   professional work environments
-* Annual leave, sick leave, and paid federal holidays
-* Comprehensive benefit options, including medical, dental, vision, life and
+- Annual leave, sick leave, and paid federal holidays
+- Comprehensive benefit options, including medical, dental, vision, life and
   long-term care insurance, flexible spending accounts, and thrift savings plans
-* Access to Employee Assistance Program (EAP)
-* SmartBenefits® — a transit benefits subsidy
-* Education and development opportunities such as mentoring programs, leadership
+- Access to Employee Assistance Program (EAP)
+- SmartBenefits® — a transit benefits subsidy
+- Education and development opportunities such as mentoring programs, leadership
   programs, and sponsored graduate degree programs
 
 ## Current postings (by team) ##
@@ -63,7 +63,7 @@ Adventure awaits!  Huzzah! 🤺
 
 Our current postings:
 
-* 🌟 [Software Engineers](postings/vm_software_engineer.md)
+- 🌟 [Software Engineers](postings/vm_software_engineer.md)
 
 ## Even more CISA careers ##
 
