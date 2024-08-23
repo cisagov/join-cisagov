@@ -40,9 +40,9 @@ Our development team is responsible for a majority of the repositories in the
 [cisagov organization](https://github.com/cisagov). Take a look around to get a
 sense of what we're currently working on.  Recently we've been making a big
 push to cloudify all the things, resulting in our new
-[COOL](https://github.com/cisagov/cool-system) system. You'll find a good deal
-of Python, infrastructure as code (Terraform, Ansible, Packer), and old-school
-shell scripting.
+[COOL](https://github.com/search?q=org%3Acisagov+%22cool-%22&type=repositories)
+system. You'll find a good deal of Python, infrastructure as code
+(Terraform, Ansible, Packer), and old-school shell scripting.
 
 We're big fans of [open development in
 government](https://digital.gov/communities/open-source/) and promote it
