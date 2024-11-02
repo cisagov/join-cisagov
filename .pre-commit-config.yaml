@@ -10,15 +10,19 @@ repos:
       - id: check-useless-excludes
 
   - repo: https://github.com/pre-commit/pre-commit-hooks
-    rev: v4.6.0
+    rev: v5.0.0
     hooks:
       - id: check-case-conflict
       - id: check-executables-have-shebangs
       - id: check-json
       - id: check-merge-conflict
+      - id: check-shebang-scripts-are-executable
+      - id: check-symlinks
       - id: check-toml
+      - id: check-vcs-permalinks
       - id: check-xml
       - id: debug-statements
+      - id: destroyed-symlinks
       - id: detect-aws-credentials
         args:
           - --allow-missing-credentials
@@ -53,14 +57,14 @@ repos:
 
   # GitHub Actions hooks
   - repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.29.2
+    rev: 0.29.4
     hooks:
       - id: check-github-actions
       - id: check-github-workflows
 
   # pre-commit hooks
   - repo: https://github.com/pre-commit/pre-commit
-    rev: v3.8.0
+    rev: v4.0.1
     hooks:
       - id: validate_manifest
 
@@ -68,25 +72,25 @@ repos:
   - repo: https://github.com/TekWizely/pre-commit-golang
     rev: v1.0.0-rc.1
     hooks:
-      # Style Checkers
-      - id: go-critic
-      # StaticCheck
-      - id: go-staticcheck-repo-mod
       # Go Build
       - id: go-build-repo-mod
-      # Go Mod Tidy
-      - id: go-mod-tidy-repo
-      # Go Test
-      - id: go-test-repo-mod
-      # Go Vet
-      - id: go-vet-repo-mod
-      # GoSec
-      - id: go-sec-repo-mod
+      # Style Checkers
+      - id: go-critic
       # goimports
       - id: go-imports-repo
         args:
           # Write changes to files
           - -w
+      # Go Mod Tidy
+      - id: go-mod-tidy-repo
+      # GoSec
+      - id: go-sec-repo-mod
+      # StaticCheck
+      - id: go-staticcheck-repo-mod
+      # Go Test
+      - id: go-test-repo-mod
+      # Go Vet
+      - id: go-vet-repo-mod
   # Nix hooks
   - repo: https://github.com/nix-community/nixpkgs-fmt
     rev: v1.3.0
@@ -95,7 +99,7 @@ repos:
 
   # Shell script hooks
   - repo: https://github.com/scop/pre-commit-shfmt
-    rev: v3.9.0-1
+    rev: v3.10.0-1
     hooks:
       - id: shfmt
         args:
@@ -125,7 +129,7 @@ repos:
         args:
           - --config=.bandit.yml
   - repo: https://github.com/psf/black-pre-commit-mirror
-    rev: 24.8.0
+    rev: 24.10.0
     hooks:
       - id: black
   - repo: https://github.com/PyCQA/flake8
@@ -139,7 +143,7 @@ repos:
     hooks:
       - id: isort
   - repo: https://github.com/pre-commit/mirrors-mypy
-    rev: v1.11.2
+    rev: v1.13.0
     hooks:
       - id: mypy
   - repo: https://github.com/pypa/pip-audit
@@ -155,7 +159,7 @@ repos:
           - --requirement
           - requirements.txt
   - repo: https://github.com/asottile/pyupgrade
-    rev: v3.17.0
+    rev: v3.19.0
     hooks:
       - id: pyupgrade
 
@@ -199,7 +203,7 @@ repos:
 
   # Packer hooks
   - repo: https://github.com/cisagov/pre-commit-packer
-    rev: v0.1.0
+    rev: v0.3.0
     hooks:
-      - id: packer_validate
       - id: packer_fmt
+      - id: packer_validate
